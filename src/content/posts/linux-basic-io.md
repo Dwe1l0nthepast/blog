@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-04T02:00:00Z
 modDatetime: 2026-11-05T18:30:00Z
 title: "Linux 基础 I/O：从 fopen 到文件描述符、缓冲区与 inode"

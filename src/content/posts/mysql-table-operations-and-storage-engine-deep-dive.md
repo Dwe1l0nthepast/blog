@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T14:15:00Z
 modDatetime: 2026-11-05T14:15:00Z
 title: "MySQL 核心架构与存储引擎（三）：表的操作与底层磁盘分水岭——frm/ibd 物理文件透视与 ALTER TABLE 生产避坑"

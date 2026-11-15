@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T11:00:00Z
 modDatetime: 2026-11-05T11:00:00Z
 title: "Qt 架构核心内幕（六）：界面美学与视觉渲染引擎——QSS 工业级换肤、盒模型与 QPainter 2D 绘图底层"

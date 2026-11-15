@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T12:00:00Z
 modDatetime: 2026-11-05T12:00:00Z
 title: "Linux 基础指令与系统交互：从命令行哲学、数据流重定向到权限基石"

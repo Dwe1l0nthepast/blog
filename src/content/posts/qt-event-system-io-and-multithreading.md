@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T10:00:00Z
 modDatetime: 2026-11-05T10:00:00Z
 title: "Qt 系统级编程进阶：事件循环五层分发机制、流式 I/O 与多线程并发架构"

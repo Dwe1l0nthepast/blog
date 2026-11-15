@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T13:00:00Z
 modDatetime: 2026-11-05T13:00:00Z
 title: "MySQL 核心架构与存储引擎（一）：从裸文件到关系模型，宏观四层架构与 InnoDB 底色"

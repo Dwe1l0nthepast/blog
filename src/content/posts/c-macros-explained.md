@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-10-23T00:00:00Z
 title: C 语言宏详解：展开原理、常见陷阱与实用技巧
 featured: false

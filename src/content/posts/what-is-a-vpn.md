@@ -1,5 +1,5 @@
 ---
-author: "Cloudflare Learning Center / 整理: midsummer-q"
+author: "Cloudflare Learning Center / 整理: Dwe1l0nthepast"
 pubDatetime: 2026-10-16T01:00:00Z
 title: 什么是 VPN？虚拟专用网络的底层原理、工作流与现代演进（Cloudflare 官方权威通识）
 featured: true

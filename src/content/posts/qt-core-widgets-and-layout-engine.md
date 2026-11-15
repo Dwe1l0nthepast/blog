@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T08:00:00Z
 modDatetime: 2026-11-05T08:00:00Z
 title: "Qt 架构核心内幕（三）：常用核心控件矩阵与现代自适应布局引擎"

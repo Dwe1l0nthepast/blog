@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T14:00:00Z
 modDatetime: 2026-11-05T14:00:00Z
 title: "MySQL 核心架构与存储引擎（二）：库的操作与物理本质——为什么说 MySQL 的 utf8 是个坑？从目录映射到备份恢复实战"

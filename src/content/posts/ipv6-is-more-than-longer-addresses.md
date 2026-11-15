@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-10-16T16:00:00Z
 modDatetime: 2026-11-05T23:00:00Z
 title: "IPv6 带来的变化，为什么不只是地址变长？"

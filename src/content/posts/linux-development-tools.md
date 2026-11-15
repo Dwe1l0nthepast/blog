@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-04T16:58:00Z
 modDatetime: 2026-11-05T20:00:00Z
 title: "Linux 基础开发工具：从编辑、构建到调试与版本管理"

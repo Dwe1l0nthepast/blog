@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T09:00:00Z
 modDatetime: 2026-11-05T09:00:00Z
 title: "Qt 架构核心内幕（四）：QMainWindow 五大组件拆解、对话框模态循环与 .qrc 资源内嵌机制"

@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T01:18:49Z
 modDatetime: 2026-11-05T19:30:00Z
 title: "从一条 Shell 命令读懂 Linux 进程"

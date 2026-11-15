@@ -3,7 +3,7 @@ title: "关于我"
 description: "关于博主与这个博客的二三事。"
 ---
 
-你好！我是 **midsummer-q**，欢迎来到我的个人博客。
+你好！我是 **Dwe1l0nthepast**，欢迎来到我的个人博客。
 
 这里是我记录技术思考、编程实践与知识沉淀的数字花园。
 
@@ -22,9 +22,9 @@ description: "关于博主与这个博客的二三事。"
 - **主题**：定制自 [AstroPaper](https://github.com/satnaing/astro-paper)
 - **公式排版**：集成 KaTeX，支持原生 LaTeX 数学公式渲染
 - **全站搜索**：集成 Pagefind 静态全文秒级搜索
-- **持续部署**：代码托管于 [GitHub](https://github.com/midsummer-q/blog)，通过 GitHub Actions 自动化 CI/CD 持续构建发布
+- **持续部署**：代码托管于 [GitHub](https://github.com/Dwe1l0nthepast/blog)，通过 GitHub Actions 自动化 CI/CD 持续构建发布
 
 ## 联系我
 
-- **GitHub**：[@midsummer-q](https://github.com/midsummer-q)
+- **GitHub**：[@Dwe1l0nthepast](https://github.com/Dwe1l0nthepast)
 - **邮箱**：[1776122348@qq.com](mailto:1776122348@qq.com)

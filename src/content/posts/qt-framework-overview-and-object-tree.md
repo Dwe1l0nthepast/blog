@@ -1,5 +1,5 @@
 ---
-author: midsummer-q
+author: Dwe1l0nthepast
 pubDatetime: 2026-11-05T06:00:00Z
 modDatetime: 2026-11-05T06:00:00Z
 title: "Qt 架构核心内幕（一）：从桌面 GUI 演进史、对象树内存哲学到工程构建全景"

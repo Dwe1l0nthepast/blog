@@ -1,5 +1,5 @@
 ---
-author: "Avery Pennarun (Tailscale) / 译: midsummer-q"
+author: "Avery Pennarun (Tailscale) / 译: Dwe1l0nthepast"
 pubDatetime: 2026-10-16T01:30:00Z
 title: Tailscale 是如何工作的：从零构建现代 Mesh VPN 架构（官方深度精译）
 featured: true

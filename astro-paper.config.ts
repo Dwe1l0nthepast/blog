@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://midsummer-q.github.io/blog/",
-    title: "Midsummer's Blog",
+    url: "https://Dwe1l0nthepast.github.io/blog/",
+    title: "Dwe1l0nthepast's Blog",
     description: "记录技术探索、计算机底层思考与日常学习笔记。",
-    author: "midsummer-q",
-    profile: "https://github.com/midsummer-q",
+    author: "Dwe1l0nthepast",
+    profile: "https://github.com/Dwe1l0nthepast",
     ogImage: "default-og.jpg",
     lang: "zh-CN",
     timezone: "Asia/Shanghai",
@@ -24,13 +24,13 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/midsummer-q/blog/edit/main/",
+      url: "https://github.com/Dwe1l0nthepast/blog/edit/main/",
     },
     search: "pagefind",
     // Giscus 评论系统（基于 GitHub Discussions）
     giscus: {
       enabled: true,
-      repo: "midsummer-q/blog",
+      repo: "Dwe1l0nthepast/blog",
       repoId: "R_kgDOVE4_Yw",
       category: "Announcements",
       categoryId: "DIC_kwDOVE4_Y84DIT_a",
@@ -53,7 +53,7 @@ export default defineAstroPaperConfig({
     // },
   },
   socials: [
-    { name: "github",   url: "https://github.com/midsummer-q" },
+    { name: "github",   url: "https://github.com/Dwe1l0nthepast" },
     { name: "mail",     url: "mailto:1776122348@qq.com" },
   ],
   shareLinks: [

@@ -1,5 +1,5 @@
 ---
-author: "David Anderson (Tailscale) / 译: midsummer-q"
+author: "David Anderson (Tailscale) / 译: Dwe1l0nthepast"
 pubDatetime: 2026-10-16T02:00:00Z
 title: NAT 穿透是如何工作的：技术原理与终极指南（Tailscale 官方深度精译）
 featured: true

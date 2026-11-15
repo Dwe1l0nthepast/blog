@@ -4,10 +4,10 @@
 
 基于 Astro v7 + AstroPaper v6 的个人技术博客，部署在 GitHub Pages。
 
-- **线上地址**：https://midsummer-q.github.io/blog/
+- **线上地址**：https://Dwe1l0nthepast.github.io/blog/
 - **技术栈**：Astro 7、TypeScript、Tailwind CSS v4、MDX
 - **语言**：中文 (zh-CN)，时区 Asia/Shanghai
-- **作者**：midsummer-q
+- **作者**：Dwe1l0nthepast
 
 ## 目录结构
 

@@ -1,6 +1,6 @@
 ---
 author: Dwe1l0nthepast
-pubDatetime: 2026-11-16T19:25:00Z
+pubDatetime: 2026-11-16T11:00:00Z
 title: C++ 对象模型探秘：从菱形虚继承内存拓扑到虚表 Thunk 机制
 featured: false
 draft: false

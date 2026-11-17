@@ -16,32 +16,37 @@ const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
   toc.length > 0 && (
     <nav
       class:list={[
-        "toc-nav sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto",
-        "rounded-lg p-4 text-sm select-none",
-        "border-border/40 bg-background/50 border backdrop-blur-xs",
+        "toc-nav max-h-[calc(100vh-8rem)] overflow-y-auto [scrollbar-width:thin]",
+        "rounded-xl p-4 text-sm select-none",
+        "border-border/60 bg-background/80 border backdrop-blur-md shadow-2xs",
         className,
       ]}
       aria-label="Table of contents"
     >
-      <div class="text-accent mb-3 flex items-center gap-1.5 text-xs font-semibold tracking-wider uppercase">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-4 w-4"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <line x1="8" y1="6" x2="21" y2="6" />
-          <line x1="8" y1="12" x2="21" y2="12" />
-          <line x1="8" y1="18" x2="21" y2="18" />
-          <line x1="3" y1="6" x2="3.01" y2="6" />
-          <line x1="3" y1="12" x2="3.01" y2="12" />
-          <line x1="3" y1="18" x2="3.01" y2="18" />
-        </svg>
-        <span>目录</span>
+      <div class="text-accent mb-3 flex items-center justify-between text-xs font-semibold tracking-wider uppercase">
+        <div class="flex items-center gap-1.5">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-4 w-4"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <line x1="8" y1="6" x2="21" y2="6" />
+            <line x1="8" y1="12" x2="21" y2="12" />
+            <line x1="8" y1="18" x2="21" y2="18" />
+            <line x1="3" y1="6" x2="3.01" y2="6" />
+            <line x1="3" y1="12" x2="3.01" y2="12" />
+            <line x1="3" y1="18" x2="3.01" y2="18" />
+          </svg>
+          <span>目录</span>
+        </div>
+        <span class="text-muted-foreground font-mono text-[10px] font-normal">
+          {toc.length} 节
+        </span>
       </div>
 
       <ul class="space-y-1 text-xs">
@@ -121,6 +126,7 @@ const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
         }
         if (current) {
           current.classList.add("active");
+          current.scrollIntoView({ block: "nearest", behavior: "smooth" });
         }
         activeLink = current;
       }
